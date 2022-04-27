@@ -1,3 +1,3 @@
 # rest-api-games
-![Design sem nome (1)](https://user-images.githubusercontent.com/77467410/165644469-4120f058-4cb9-4d82-a981-e39df550a656.png)
+![Design sem nome](https://user-images.githubusercontent.com/77467410/165644830-9bb570b9-f7ad-4918-b645-9732552cabc7.gif)
 this is a REST API to create, register, delete and update a product 
