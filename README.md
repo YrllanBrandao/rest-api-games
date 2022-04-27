@@ -19,14 +19,17 @@ node app
 
 HTTP/1.1 200 OK
 
- {
-        "id": 2,
-        "title": "title",
+> {
+>       "id": 2,
+>       "title": "title",
         "price": "price",
         "year": "year",
         "createdAt": "date",
         "updatedAt": "date"
     }
+    type: markdown
+content: >
+
 
 ## 
 
