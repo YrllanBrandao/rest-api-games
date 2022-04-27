@@ -11,27 +11,7 @@ this is a REST API to create, register, delete and update a product
 ## RUN 
 node app
 
-## REQUESTS
-
-## `Get /games`
-
-### RESPONSE
-
-HTTP/1.1 200 OK
-
-> {
->       "id": 2,
->       "title": "title",
-        "price": "price",
-        "year": "year",
-        "createdAt": "date",
-        "updatedAt": "date"
-    }
-    type: markdown
-content: >
-
-
-## 
+### under construction...
 
 
 
