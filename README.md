@@ -13,7 +13,7 @@ node app
 
 ## REQUESTS
 
-# `GET /GAMES`
+## `Get /games`
 
 ### RESPONSE
 
@@ -21,14 +21,14 @@ HTTP/1.1 200 OK
 
  {
         "id": 2,
-        "title": "GOD OF WAR",
-        "price": "500",
-        "year": 2015,
-        "createdAt": "2022-04-27T20:18:34.000Z",
-        "updatedAt": "2022-04-27T22:01:08.000Z"
+        "title": "title",
+        "price": "price",
+        "year": "year",
+        "createdAt": "date",
+        "updatedAt": "date"
     }
 
-[]
+## 
 
 
 
