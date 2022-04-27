@@ -9,7 +9,7 @@ this is a REST API to create, register, delete and update a product
 
 
 ## RUN 
-node app
+`node app`
 
 ### under construction...
 
